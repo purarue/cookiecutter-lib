@@ -10,7 +10,6 @@ Run:
 
 ```
 cookiecutter gh:seanbreckenridge/cookiecutter-lib
-cd package_name
 # to install
 pip install --user ./package_name
 # to intall in editable mode, so changes to code update global package immediately
