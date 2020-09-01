@@ -11,5 +11,5 @@
 To install with pip, run:
 
     git clone https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.module_name }}
-    pip3 install --user ./{{ cookiecutter.module_name }}
+    pip install --user ./{{ cookiecutter.module_name }}
 
