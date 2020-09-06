@@ -4,12 +4,9 @@
 
 ## Installation
 
-#### Requires:
-
-`python3.6+`
+Requires `python3.6+`
 
 To install with pip, run:
 
-    git clone https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.module_name }}
-    pip install --user ./{{ cookiecutter.module_name }}
+    pip install git+https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.module_name }}
 
