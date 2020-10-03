@@ -8,7 +8,7 @@ with io.open("README.md", encoding="utf-8") as fo:
     long_description = fo.read()
 
 setup(
-    name="{{ cookiecutter.project_name }}",
+    name="{{ cookiecutter.module_name }}",
     version="0.1.0",
     url="https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.module_name }}",
     author="{{ cookiecutter.author_name }}",
