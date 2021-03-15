@@ -1,4 +1,8 @@
-# cookiecutter-lib
+I just use the single repo here now instead:
+
+ https://github.com/seanbreckenridge/cookiecutter-template
+
+---
 
 Cookiecutter template for a basic python library.
 
