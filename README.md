@@ -1,6 +1,6 @@
 I just use the single repo here now instead:
 
- https://github.com/seanbreckenridge/cookiecutter-template
+ https://github.com/purarue/cookiecutter-template
 
 ---
 
@@ -13,7 +13,7 @@ But it still uses `setuptools` so that the python package is importable from any
 Run:
 
 ```
-cookiecutter gh:seanbreckenridge/cookiecutter-lib
+cookiecutter gh:purarue/cookiecutter-lib
 # to install
 pip install --user ./package_name
 # to intall in editable mode, so changes to code update global package immediately
