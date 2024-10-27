@@ -16,6 +16,6 @@ Run:
 cookiecutter gh:purarue/cookiecutter-lib
 # to install
 pip install --user ./package_name
-# to intall in editable mode, so changes to code update global package immediately
+# to install in editable mode, so changes to code update global package immediately
 pip install --user -e ./package_name
 ```
